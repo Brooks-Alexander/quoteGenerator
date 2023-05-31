@@ -27,7 +27,7 @@ const quoteGenerator = (writer) => {
     }
 }
 
-quoteGenerator("Dr. Martin Luther King Jr.");
+quoteGenerator();
 
 
 
